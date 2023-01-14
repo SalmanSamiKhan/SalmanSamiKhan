@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/salmansamiikhan" target="blank"><img src="https://img.shields.io/twitter/follow/salmansamiikhan?logo=twitter&style=for-the-badge" alt="salmansamiikhan" /></a> </p>
 
-- 🔭 I’m currently working on [notebook project](https://github.com/SalmanSamiKhan/notebook)
+- 🔭 I’m currently working on [Ecommerce Website](https://github.com/SalmanSamiKhan/amazonia)
 
 - 🌱 I’m currently learning **React, Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SalmanSamiKhan?tab=repositories](https://github.com/SalmanSamiKhan?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/SalmanSamiKhan?tab=repositories)
 
 - 📫 How to reach me **salmansamiikhan@gmail.com**
 
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansamikhan&show_icons=true&locale=en&layout=compact" alt="salmansamikhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansamikhan&show_icons=true&locale=en" alt="salmansamikhan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmansamikhan&show_icons=true&locale=en" alt="salmansamikhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansamikhan&" alt="salmansamikhan" /></p>
