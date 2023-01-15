@@ -15,7 +15,6 @@
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/SalmanSamiKhan/SalmanSamiKhan/main/Right_Side.gif" width = 250px></picture>
 
-<br>
 
 - A passionate Self-taught Full Stack developer
 - Currently learning Full Stack Mern Web Development
