@@ -93,17 +93,17 @@
 
 <div align="center">
 	
+<br>
+	
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=salmansamikhan&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="salmansamikhan" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmansamikhan&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="salmansamikhan" /></p>
+<br>
 
-
-<p><img  src="https://github-readme-stats.vercel.app/api?username=salmansamikhan&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="salmansamikhan" /></p>
+<p><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=salmansamikhan&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="salmansamikhan" /></p>
 
 
 </div>
 
-<br>
-<br>
 <br>
 
 -----
