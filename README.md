@@ -5,7 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Graduate;++;Full-Stack+Development+Enthusiast,;Love+to+Work+With+MERN+Stack,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
 <br>
 
 
@@ -19,12 +18,15 @@
 
 <br>
 <br>
-<br>
-<br>
 
-- A passionate Self-taught Full Stack developer
-- Currently learning Full Stack Mern Web Development
-- I’m currently open for a new job opportunity
+- 🎓 Computer Science Graduate
+- 👨‍💻 A passionate Self-taught Full Stack developer
+- 🔭 I’m currently working on [Ecommerce Website](https://github.com/SalmanSamiKhan/amazonia)
+
+- 🌱 I’m currently learning **React, Nodejs**
+
+- 👨‍💻 All of my projects are available [here](https://github.com/SalmanSamiKhan?tab=repositories)
+- 💼 I’m currently open for a new job opportunity
 
 <br><br>
 
