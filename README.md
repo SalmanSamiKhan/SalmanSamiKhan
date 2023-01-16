@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Salman Sami Khan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Graduate;++;Full-Stack+Development+Enthusiast,;Love+to+Work+With+MERN+Stack,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Graduate;Full-Stack+Development+Enthusiast;Love+to+Work+With+MERN+Stack;Active+Learner;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br>
@@ -23,7 +23,7 @@
 - 👨‍💻 A passionate Self-taught Full Stack developer
 - 🔭 I’m currently working on [Ecommerce Website](https://github.com/SalmanSamiKhan/amazonia)
 
-- 🌱 I’m currently learning **React, Nodejs**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SalmanSamiKhan?tab=repositories)
 - 💼 I’m currently open for a new job opportunity
