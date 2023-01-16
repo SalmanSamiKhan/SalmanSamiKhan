@@ -18,28 +18,30 @@
 
 <br>
 <br>
+<div class="bio" style="font-size:large; margin-left:10px">
 
-- 🎓 Computer Science Graduate
-- 👨‍💻 A passionate Self-taught Full Stack developer
-- 🔭 I’m currently working on [Ecommerce Website](https://github.com/SalmanSamiKhan/amazonia)
+- 🎓 **Computer Science Graduate**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 👨‍💻 **A passionate Self-taught Full Stack developer**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/SalmanSamiKhan?tab=repositories)
-- 💼 I’m currently open for a new job opportunity
+- 🔭 **I’m currently working on [Ecommerce Website](https://github.com/SalmanSamiKhan/amazonia)**
 
+- 🌱 **At present I’m learning MERN STACK**
+
+- 👨‍💻 **All of my projects are available [here](https://github.com/SalmanSamiKhan?tab=repositories)**
+- 💼 **I’m currently open for a new job opportunity**
+</div>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-
+<div class="skills" style="font-size:large; margin-left:10px" >
 <p align="center">
 
-- **Languages**:
-    
-    
+- **Languages**
+
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) &nbsp; 
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) &nbsp;
@@ -123,19 +125,21 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
 <br>
-<div align='left'>
+<br>
 
-&nbsp; &nbsp; &nbsp; <a href="https://facebook.com/salmansamikhan" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a> &nbsp; <a href="https://twitter.com/SalmanSamiiKhan" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a> &nbsp; <a href="https://www.linkedin.com/in/salman-sami-khan-69855a1a0/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a> &nbsp; <a href="mailto:salmansamiikhan@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a> <br>
-
-&nbsp; &nbsp; &nbsp; <a href="https://leetcode.com/Salman_/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) </a> &nbsp;  <a href="https://codeforces.com/profile/Salman__">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) </a> &nbsp; 
+<div align='center' >
+<div class="social" style="margin-left:30px">
+    <a href="https://facebook.com/salmansamikhan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+    </a> &nbsp; <a href="https://twitter.com/SalmanSamiiKhan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+    </a> &nbsp; <a href="https://www.linkedin.com/in/salman-sami-khan-69855a1a0/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+    </a> &nbsp; <a href="mailto:salmansamiikhan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+    </a> <br> <br>
+    
+<a href="https://leetcode.com/Salman_/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) </a> &nbsp;  <a href="https://codeforces.com/profile/Salman__">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) </a> &nbsp;</div>
 
 </div>
 
@@ -145,6 +149,8 @@
 <br>
 <br>
 
-
+<div align="center">
 
 Copyright © [Salman Sami Khan](https://github.com/salmansamikhan)
+
+</div>
