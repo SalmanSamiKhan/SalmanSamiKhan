@@ -90,7 +90,7 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp; 
     ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp; 
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) &nbsp; 
-    ![mongoDB Compass](https://img.shields.io/badge/-mongoDB%20Compass-green?style=for-the-badge) &nbsp;
+    ![mongoDB Compass](https://img.shields.io/badge/-mongoDB%20Compass-success?style=for-the-badge) &nbsp;
 <br>
 </p>
 <br>
