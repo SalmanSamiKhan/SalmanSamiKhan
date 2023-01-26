@@ -44,7 +44,7 @@
      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="90" height="50"/> </a>&nbsp;
      <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="50" height="50"/> </a>&nbsp;
      <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="jquery" width="50" height=40"/> </a>&nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>&nbsp;
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>&nbsp;
+     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>&nbsp; <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="50" height="50"/> </a>&nbsp;
     </a>  
     <br><br>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>&nbsp;
@@ -55,9 +55,8 @@
      <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50" height="50"/> </a>&nbsp;
      <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"> <img src="https://embed.zenn.studio/api/optimize-og-image/2cd8390e99ba79316603/https%3A%2F%2Frangav.gallerycdn.vsassets.io%2Fextensions%2Frangav%2Fvscode-thunder-client%2F2.3.4%2F1674376565496%2FMicrosoft.VisualStudio.Services.Icons.Default" alt="thunder client" width="50" height="50"/> </a>&nbsp;
      <a href="https://en.wikipedia.org/wiki/API" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/261808/api.svg" alt="api" width="50" height="50"/> </a>&nbsp;     
-     <a href="https://heroku.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>&nbsp; 
+     <a href="https://heroku.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>&nbsp; <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SalmanSamiKhan/SalmanSamiKhan/main/render.png" alt="render" width="50" height="50"/> </a>&nbsp; 
      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="50" height="50"/> </a>&nbsp;
-     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="50" height="50"/> </a>&nbsp;
      
     </div>
 
