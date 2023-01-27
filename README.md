@@ -26,7 +26,8 @@
 - 🌱 **At present I’m learning MERN STACK**
 
 - 👨‍💻 **All of my projects are available [here](https://github.com/SalmanSamiKhan?tab=repositories)**
-- 💼 **I’m currently open for a new job opportunity => [Resume](https://github.com/SalmanSamiKhan/SalmanSamiKhan/blob/main/SALMAN%20SAMI%20KHAN%20CV%20updated.pdf)**
+
+- 💼 **I’m currently open for a new job opportunity => [Resume](https://github.com/SalmanSamiKhan/SalmanSamiKhan/blob/main/SALMAN%20SAMI%20KHAN%20CV.pdf)**
 </div>
 <br><br>
 
