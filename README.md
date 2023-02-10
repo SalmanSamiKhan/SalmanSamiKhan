@@ -29,7 +29,7 @@
 
 - 💼 **I’m currently open for a new job opportunity [Resume](https://github.com/SalmanSamiKhan/SalmanSamiKhan/blob/main/SALMAN%20SAMI%20KHAN%20CV.pdf)**
 	
-- 💼 **My [Resume](https://github.com/SalmanSamiKhan/SalmanSamiKhan/blob/main/SALMAN%20SAMI%20KHAN%20RESUME.pdf)  - __ -  My [Portfolio](https://portfolio-website-z5wu.onrender.com)**
+- 💼 **My [Resume](https://drive.google.com/file/d/1Y1fAsfxyKMTai1MZICXC4rVgWuk4ZkJE/view?usp=sharing)  - __ -  My [Portfolio](https://portfolio-website-z5wu.onrender.com)**
 </div>
 <br><br>
 
