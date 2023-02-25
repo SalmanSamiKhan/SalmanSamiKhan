@@ -27,7 +27,7 @@
 
 - 👨‍💻 **All of my projects are available [here](https://github.com/SalmanSamiKhan?tab=repositories)**
 
-- 💼 **I’m currently open for a new job opportunity [Resume](https://github.com/SalmanSamiKhan/SalmanSamiKhan/blob/main/SALMAN%20SAMI%20KHAN%20CV.pdf)**
+- 💼 **I’m currently open for a new job opportunity**
 	
 - 💼 **My [Resume](https://drive.google.com/file/d/1bCmjifzTbCKghSyPsvcPjaQPm1s0iG9r/view?usp=sharing)  - __ -  My [Portfolio](https://portfolio-website-z5wu.onrender.com)**
 </div>
