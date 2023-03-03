@@ -29,7 +29,7 @@
 
 - 💼 **I’m currently open for a new job opportunity**
 	
-- 💼 **My [Resume](https://drive.google.com/file/d/1R47Z7fHlnmKXPM6EMldwDI2ibr90mJp1/view?usp=sharing)  - __ -  My [Portfolio](https://portfolio-website-z5wu.onrender.com)**
+- 💼 **My [Resume](https://drive.google.com/file/d/1PcdAeagBcvXAUZeksd4RWOz6laENxu5-/view?usp=sharing)  - __ -  My [Portfolio](https://salman-portfolio.vercel.app/)**
 </div>
 <br><br>
 
