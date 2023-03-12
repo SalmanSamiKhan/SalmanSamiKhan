@@ -21,7 +21,7 @@
 
 - 👨‍💻 **A passionate Self-taught Full Stack developer**
 
-- 🔭 **I’m currently working on [Ecommerce Website](https://github.com/SalmanSamiKhan/amazonia)**
+- 🔭 **I’m currently working on [Ecommerce Website](https://github.com/SalmanSamiKhan/bookmania)**
 
 - 🌱 **At present I’m learning MERN STACK**
 
