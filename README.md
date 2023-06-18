@@ -29,7 +29,7 @@
 
 - 💼 **I’m currently open for a new job opportunity**
 	
-- 💼 **My [Resume](https://drive.google.com/file/d/1lDGC-P8FPC25YoQr5De_fnDtTMSMy1lO/view?usp=sharing)  - __ -  My [Website](https://salmansamikhan.vercel.app/)**
+- 💼 **My [Resume](https://docs.google.com/document/d/1eXWzL0jXaSAo2t6OXucTZ7XTsxurvGP--VcRV4koyqM/edit?usp=drive_link)  - __ -  My [Website](https://salmansamikhan.vercel.app/)**
 </div>
 <br><br>
 
@@ -42,14 +42,19 @@
     <br>
     <br>
     <div align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> &nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="90" height="60"/> </a>&nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;
+    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="selenium" width="50" height="50"/> &nbsp;
+    <a href="https://pywinauto.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/666037/45233486-c4fc5380-b287-11e8-80ce-b9a911a6cb0d.png" alt="pywinauto" width="50" height="50"/> &nbsp;
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="numpy" width="50" height="50"/> &nbsp;
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/674px-Pandas_mark.svg.png?20200210000431" alt="pandas" width="50" height="50"/> &nbsp;
+    <a href="https://openbots.ai" target="_blank" rel="noreferrer"> <img src="https://openbots.ai/wp-content/uploads/2021/02/openbotsLogo.svg" alt="openbots" width="100" height="50"/> &nbsp;
+     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> &nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="90" height="60"/> </a>&nbsp;
      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="90" height="50"/> </a>&nbsp;
-     <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="50" height="50"/> </a>&nbsp;
-     <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="jquery" width="50" height=40"/> </a>&nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>&nbsp;
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://images.velog.io/images/vsnm25/post/0692367a-3209-4460-bd84-28f33f6231f4/restAPI.png" alt="mysql" width="50" height="50"/> </a>&nbsp; <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="50" height="50"/> </a>&nbsp;
-    </a>  
-    <br><br>
+     <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="50" height="50"/> </a>&nbsp; 
+     <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="jquery" width="50" height=40"/> </a>&nbsp; <br> <br>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>&nbsp;
+     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="80" height="50"/> </a>&nbsp; <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="50" height="50"/> </a>&nbsp;
+    </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>&nbsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>&nbsp;
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>&nbsp;
