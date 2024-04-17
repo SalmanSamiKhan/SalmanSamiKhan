@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Salman Sami Khan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Graduate;Full-Stack+Development+Enthusiast;Love+to+Work+With+MERN+Stack;Active+Learner;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Python+Django+Pandas+Selenium;Robotic+Process+Automation+(RPA);"></a>
 </p>
 
 <br>
@@ -17,19 +17,19 @@
 <br>
 <div class="bio" style="font-size:large; margin-left:10px">
 
+- 👨‍💻 **Software Engineer**
+
 - 🎓 **Computer Science Graduate**
 
-- 👨‍💻 **A passionate Self-taught Full Stack developer**
+- 🔭 **I’m currently working on [RPA Project](https://github.com/SalmanSamiKhan/rmg)**
 
-- 🔭 **I’m currently working on [Ecommerce Website](https://github.com/SalmanSamiKhan/bookmania)**
-
-- 🌱 **At present I’m learning MERN STACK**
+- 🌱 **At present I’m learning Django, Docker & Postgres**
 
 - 👨‍💻 **All of my projects are available [here](https://github.com/SalmanSamiKhan?tab=repositories)**
 
-- 💼 **I’m currently open for a new job opportunity**
+- 💼 **I’m currently working at [Altersense Limited](https://altersense.com/)**
 	
-- 💼 **My [Resume](https://docs.google.com/document/d/1eXWzL0jXaSAo2t6OXucTZ7XTsxurvGP--VcRV4koyqM/edit?usp=drive_link)  - __ -  My [Website](https://salmansamikhan.vercel.app/)**
+- 💼 **My [Resume](https://docs.google.com/document/d/1eXWzL0jXaSAo2t6OXucTZ7XTsxurvGP--VcRV4koyqM/edit?usp=drive_link)  - __ -  My [Website](https://salmansk.vercel.app/)**
 </div>
 <br><br>
 
@@ -43,6 +43,7 @@
     <br>
     <div align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="50" height="50"/> &nbsp;
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="selenium" width="50" height="50"/> &nbsp;
     <a href="https://pywinauto.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/666037/45233486-c4fc5380-b287-11e8-80ce-b9a911a6cb0d.png" alt="pywinauto" width="50" height="50"/> &nbsp;
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="numpy" width="50" height="50"/> &nbsp;
