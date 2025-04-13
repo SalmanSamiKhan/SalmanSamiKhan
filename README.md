@@ -29,7 +29,7 @@
 
 - 💼 **I’m currently working at [Altersense Limited](https://altersense.com/)**
 	
-- 💼 **My [Resume](https://docs.google.com/document/d/1eXWzL0jXaSAo2t6OXucTZ7XTsxurvGP--VcRV4koyqM/edit?usp=drive_link)  - __ -  My [Website](https://salmansk.vercel.app/)**
+- 💼 **My [Resume](https://drive.google.com/file/d/1utSQ-8mZX9uE2pMHOtDkp6SI9H733Wju/view?usp=sharing)  - __ -  My [Website](https://salmansk.vercel.app/)**
 </div>
 <br><br>
 
