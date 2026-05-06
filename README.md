@@ -2,7 +2,7 @@
 
 # Salman Sami Khan
 
-Software Engineer · Aspiring Researcher  
+### Software Engineer · Aspiring Researcher  
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salmansamiikhan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SalmanSamiKhan)
