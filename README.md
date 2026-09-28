@@ -34,6 +34,7 @@ Find me here 👉 **[salmansamikhan.github.io](https://salmansamikhan.github.io/
 
 ### Past work
 
+- 🏙️ **Urban Mobility Forecasting & Aerial Image Segmentation** — machine learning models for urban traffic forecasting and pixel-level segmentation of aerial imagery.
 - 🚗 **License Plate Recognition** — 3-stage ALPR pipeline for Bengali-script plates. 95% accuracy under real-world conditions.
 - 🌾 **Rice Classifier** — MobileNetV2 transfer learning on 75K+ images, 5-class classification.
 
@@ -57,8 +58,8 @@ Find me here 👉 **[salmansamikhan.github.io](https://salmansamikhan.github.io/
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=salmansamikhan&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="140"/>
+<img src="https://github-stats-extended.vercel.app/api?username=salmansamikhan&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="140"/>
 &nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=salmansamikhan&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="140"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=salmansamikhan&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="140"/>
 
 </div>
